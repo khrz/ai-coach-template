@@ -1,2 +1,2 @@
 # ai-coach-template
-Importiert Garmin Daten über Intervals.icu in ein Google Sheet
+Automatisierter Data-Hub: Synchronisiert Garmin Trainings- & Gesundheitsdaten via Intervals.icu direkt in Google Sheets als Grundlage für AI-Coaching-Analysen.
